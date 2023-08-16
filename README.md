@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mave-t-ech
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R and Python
+- 🌱 I currently work with SQL, Excel, SPSS, and PowerBI
 - 💞️ I’m looking to collaborate on any data analytical projects
 - 📫 How to reach me maverickblazerhidor@gmail.com
 
